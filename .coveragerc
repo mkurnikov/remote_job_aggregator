@@ -1,0 +1,3 @@
+[run]
+include = remote_job_aggregator/*
+omit = *migrations*
